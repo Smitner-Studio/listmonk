@@ -2,7 +2,7 @@
 
 This example deploys self-hosted version of [Listmonk](https://listmonk.app/). 
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/listmonk)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/listmonk?referralCode=Qh_-oD)
 
 ## ✨ Features
 
